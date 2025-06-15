@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/cors.js": {
+      "runtime": "edge"
+    }
+  }
+}
